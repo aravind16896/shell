@@ -1,10 +1,10 @@
-MONGODB_HOST: mongodb.daws76s.online # submit your host
-REDIS_HOST: redis.daws76s.online
-MYSQL_HOST: mysql.daws76s.online
-RABBITMQ_HOST: rabbitmq.daws76s.online
-CATALOGUE_HOST: catalogue.daws76s.online
-USER_HOST: user.daws76s.online
-CART_HOST: cart.daws76s.online
-SHIPPING_HOST: shipping.daws76s.online
-PAYMENT_HOST: payment.daws76s.online
-DISPATCH_HOST: dispatch.daws76s.online
+MONGODB_HOST: mongodb.aravind16896.online # submit your host
+REDIS_HOST: redis.aravind16896.online
+MYSQL_HOST: mysql.aravind16896.online
+RABBITMQ_HOST: rabbitmq.aravind16896.online
+CATALOGUE_HOST: catalogue.aravind16896.online
+USER_HOST: user.aravind16896.online
+CART_HOST: cart.aravind16896.online
+SHIPPING_HOST: shipping.aravind16896.online
+PAYMENT_HOST: payment.aravind16896.online
+DISPATCH_HOST: dispatch.aravind16896.online
